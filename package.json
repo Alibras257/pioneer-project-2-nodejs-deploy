@@ -1,0 +1,22 @@
+{
+  "name": "pioneer-project-2-nodejs-deploy",
+  "version": "1.0.0",
+  "description": "A simple Node.js application deployed in a Linux environment for Pioneer DevOps Project 2.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "devops",
+    "deployment",
+    "linux"
+  ],
+  "author": "Ibraheem Aloyinlapa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
